@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "__*": true,
+        "*.identcache": true,
+        "*.local": true,
+        "*.res": true,
+        "*.stat": true,
+        "Linux64": true,
+        "modules": true,
+        "Win32": true
+    }
+}
